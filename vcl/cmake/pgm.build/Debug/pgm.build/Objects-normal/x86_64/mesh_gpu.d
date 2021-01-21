@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/opengl/mesh_gpu/mesh_gpu.cpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/opengl/mesh_gpu/mesh_gpu.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/external_lib/headers/glad.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/external_lib/headers/../../../../external/glad/include/glad/glad.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/mesh.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec2/vec2.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec2/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec3/vec3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec3/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec4/vec4.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_structure/../../../math/vec/vec4/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_primitive/mesh_primitive.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_primitive/../mesh_structure/mesh.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_loader/mesh_loader.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_loader/obj/obj.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/shape/mesh/mesh_loader/obj/../../mesh_structure/mesh.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/helper/helper.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/helper/string/string.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/helper/file/file.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/opengl/debug/opengl_debug.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/opengl/debug/../../../external_lib/headers/glad.hpp

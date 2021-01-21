@@ -1,0 +1,10 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-I/media/damien/ce4339aa-ebef-483a-9d72-2b221817c00e/drive/teaching/2018_2019/2018_2019_animation_3d/2018_2019_animation_3d/practice/src/04_keyframe_interpolation/data/code/01_interpolation/data/marine/build-tp_modelisation-Desktop-Default
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/media/damien/ce4339aa-ebef-483a-9d72-2b221817c00e/drive/teaching/2018_2019/2018_2019_animation_3d/2018_2019_animation_3d/practice/src/04_keyframe_interpolation/data/code/01_interpolation/data/marine/build-tp_modelisation-Desktop-Default/src/local/interface/moc_myWindow.cxx
+/media/damien/ce4339aa-ebef-483a-9d72-2b221817c00e/drive/teaching/2018_2019/2018_2019_animation_3d/2018_2019_animation_3d/practice/src/04_keyframe_interpolation/data/code/01_interpolation/data/marine/tp_modelisation/src/local/interface/myWindow.hpp

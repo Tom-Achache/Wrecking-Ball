@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.cpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/drawable/curve_dynamic_drawable/curve_dynamic_drawable.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/drawable/curve_dynamic_drawable/../curve_drawable/curve_drawable.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/opengl/curve_gpu/curve_gpu.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/external_lib/headers/glad.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/external_lib/headers/../../../../external/glad/include/glad/glad.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/math/vec/vec3/vec3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/math/vec/vec3/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/camera.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/vec/vec3/vec3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/mat4.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/mat.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec2/vec2.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec2/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec3/vec3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec4/vec4.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../mat/../../vec/vec4/../vec/vec.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat4/../../vec/vec4/vec4.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat3/mat3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat3/../mat/mat.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/scene/camera/../../math/mat/mat3/../../vec/vec3/vec3.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/src/vcl/core/drawable/curve_dynamic_drawable/../curve_drawable/../drawable_uniform/drawable_uniform.hpp \
+  /Users/ludovictheobald/Documents/INF585/vcl/cmake/../src/vcl/core/math/mat/mat3/mat3.hpp
