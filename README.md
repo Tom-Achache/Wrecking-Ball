@@ -1,2 +1,5 @@
-# Wrecking-Ball
- Final Project of INF585 at Ecole Polytechnique (include HWs as well) (C++)
+# Wrecking Ball
+ Final project of INF585 course from Ecole Polytechnique (includes HWs as well) (C++)
+
+
+See final result with WreckingBall.mov
